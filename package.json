@@ -1,0 +1,21 @@
+{
+  "name": "login_server",
+  "version": "1.0.0",
+  "description": "Backend for login system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Raphael",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "login_server": "file:",
+    "mongoose": "^8.7.3",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.7",
+    "uuid": "^11.0.1"
+  }
+}
