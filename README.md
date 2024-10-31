@@ -1,8 +1,6 @@
 ![email verify](https://github.com/user-attachments/assets/44a52ce0-6a0b-4844-b06e-b874df97b891)
 
-Here's a README file for the code you shared:
 
----
 
 # User Authentication API
 
